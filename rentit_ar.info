@@ -2,8 +2,8 @@
 
 ; ------- Declare default theme information
 
-name        = rentit_ar
-description = Omega Sub-Theme starter kit
+name        = Rent-A-Site HTML5
+description = Rent-A-Site Theme built using Omega Subtheme system.
 screenshot = screenshot.png
 core       = 6.x
 base theme = omega
