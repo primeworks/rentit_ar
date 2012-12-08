@@ -12,6 +12,11 @@ base theme = omega
 
 ;stylesheets[all][] = css/your_css_file.css
 
+stylesheets[all][] = css/tags.css
+stylesheets[all][] = css/main.css
+stylesheets[all][] = css/header.css
+stylesheets[all][] = css/nav.css
+
 ; ------- Declare default javascript includes
 
 ;scripts[] = js/your_js_file.js
