@@ -1,12 +1,287 @@
 /* CSS Document */
 
+/*@media screen and (min-width: 960px) {*/
+	
 #main-wrapper {
 	margin: 0px;
 	width: 1000px;
 }
 
+#main-wrapper > h1,
+#main-wrapper > #main-content{
+	margin-left: 9px;
+	margin-right: 9px;
+}
+
+.front .block-area_banner{
+	display: none;
+}
+
+.node.product{
+	background-image: none !important;
+}
+
+.product-body > p{
+	margin-bottom: 39px;
+	border-top-width: 0px;
+	border-right-width: 0px;
+	border-bottom-width: 1px;
+	border-left-width: 0px;
+	border-top-style: dotted;
+	border-right-style: dotted;
+	border-bottom-style: dotted;
+	border-left-style: dotted;
+	border-top-color: #555;
+	border-right-color: #555;
+	border-bottom-color: #555;
+	border-left-color: #555;
+	padding-right: 35px;
+	padding-bottom: 34px;
+	padding-left: 38px;
+	margin-left: -24px;
+	margin-right: -59px;
+}
+
+.product-body > p img{
+	clear: left;
+	float: left;
+	position: absolute;
+	right: 700px;
+}
+
+.product-body > p + p{
+	display: block;
+	clear: left;
+	float: left;
+	padding-left: 408px;
+	width: 555px;
+	margin-left: -25px;
+	padding-bottom: 50px;
+	min-height: 128px;
+}
+
+.product-info.product.sell {
+display: inline-block;
+}
+
+.section-product .taxonomy{
+	display:none;
+}
+
+.section-product h1{
+	display:none;
+	}
+
+.section-product .product{
+	border-top-width: 0px;
+	border-right-width: 0px;
+	border-bottom-width: 0px;
+	border-left-width: 0px;
+}
+
+
+.node{
+	background-image: url(../images/spectacular-themes-bg.png);
+	background-repeat: repeat-x;
+	background-position: left top;
+	border-top-width: 0px;
+	border-right-width: 1px;
+	border-bottom-width: 1px;
+	border-left-width: 1px;
+	border-top-style: solid;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	border-top-color: #c2c2c2;
+	border-right-color: #c2c2c2;
+	border-bottom-color: #c2c2c2;
+	border-left-color: #c2c2c2;
+	padding-top: 16px;
+	padding-right: 50px;
+	padding-left: 16px;
+	text-align: justify;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	color: #636363;
+}
+
+.node ul{
+	list-style-image: none;
+	list-style-type: none;
+	margin-left: 0px;
+	padding-left: 0px;
+}
+
+.node li{
+	background-image: url(../images/node-bullets.png);
+	background-repeat: no-repeat;
+	background-position: 0px 6px;
+	padding-left: 30px;
+}
+
+#node-page-34{
+	background-image: url(../images/free-web-setup-bg.jpg);
+	background-repeat: repeat-x;
+	background-position: left top;
+}
+
+#node-page-34 > p{
+	width: 597px;
+	margin: 0 auto;
+	font-size: 14px;
+	margin-bottom: 30px;
+}
+
+#node-page-34 > p + p{
+	display: block;
+	float: left;
+	width: 291px;
+	margin-right: 13px;
+	text-align: center;
+}
+
+#node-page-34 > p + p img{
+	clear: both;
+}
+
+#node-page-35{
+	background-image: url(../images/multimedia-bg.png);
+	background-repeat: repeat-x;
+	background-position: left top;
+}
+
+#node-page-35 > p + p{
+	width: 300px;
+padding-top: 0px;
+margin-bottom: 2px;
+margin-top: 31px;
+}
+
+#node-page-35 .image{
+	float: right;
+width: 582px;
+margin-top: 0px;
+}
+
+#node-page-35 > p{
+	width: 570px;
+text-align: center;
+}
+
+p.float-right{	
+margin: 0 auto;
+}
+
+#node-page-36{
+	background-image: url(../images/custom-social-media-buttons.png);
+}
+
+#node-page-36 > p{
+	width: 750px;
+text-align: center;
+margin:0 auto;
+}
+
+#node-page-36 > p + p{
+	width: 300px;
+padding-top: 0px;
+margin-bottom: 2px;
+margin-top: 31px;
+}
+
+#node-page-36 .socialbar{
+	display: block;
+	float: left;
+	margin-top: 60px;
+	text-align: left;
+}
+
+#node-page-36 > p.image{
+	float: right;
+	margin-top: 0px;
+width: 587px;	
+}
+
+#node-page-37{
+	background-image: url(../images/monthly-updates.png);
+}
+
+#node-page-37 > p{
+	width: 750px;
+text-align: center;
+margin:0 auto;
+margin-bottom: 50px;
+}
+
+#node-page-37 > p.image{
+	float: right;
+	margin-top: 0px;
+width: 587px;	
+margin-right: -40px;
+}
+
+#node-page-37 > p + p{
+	width: 300px;
+padding-top: 0px;
+margin-bottom: 2px;
+margin-top: 15px;
+margin-left: 20px;
+text-align: left;
+}
+
+#node-page-38 > p.image{float: right;
+margin-top: 30px;;
+margin-right: -21px;
+}
+
+#node-page-38 > p{
+	text-align: left;
+margin:0 auto;
+}
+
+#node-page-38{
+	background-image: url(../images/web-optimization.jpg);
+}
+
+#node-page-39 > p.image{
+	float: right;
+margin-top: 30px;;
+margin-right: -21px;
+}
+
+
+
+
+#main-wrapper > h1{
+	background-image: url(../images/title-bg.gif);
+	background-repeat: repeat;
+	background-position: left bottom;
+	font-family: helvetica;
+	font-size: 24px;
+	text-align: center;
+	color: #FFF;
+	padding-top: 6px;
+	padding-bottom: 6px;
+	font-weight: lighter;
+	margin-bottom: 0px;
+	border-top-width: 1px;
+	border-right-width: 1px;
+	border-bottom-width: 0px;
+	border-left-width: 1px;
+	border-top-style: solid;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	border-top-color: #c2c2c2;
+	border-right-color: #c2c2c2;
+	border-bottom-color: #c2c2c2;
+	border-left-color: #c2c2c2;
+}
+
 #page {
 background-color: white;
+margin: 0 auto;
+width:1000px;
 }
 
 #block-views-top_banner_slideshow-block_1{
@@ -26,6 +301,7 @@ background-color: white;
 	margin-top: 0px;
 	width: 1000px;
 	background-color: #FFF;
+	min-height: 458px;
 }
 
 /* Products categories view style*/
@@ -305,7 +581,7 @@ background-color: white;
 	height: 147px;
 	width: 983px;
 	margin-bottom: 15px;
-	margin-left: 8px;
+	margin-left: 0px;
 }
 
 .view-payment-options .views-field-image-attach-images{
@@ -331,6 +607,7 @@ background-color: white;
 	padding-bottom: 3px;
 }
 
+#main-content a,
 #postscript-wrapper a,
 #postscript-wrapper a:visited,
 #postscript-wrapper{
@@ -342,15 +619,23 @@ background-color: white;
 	font-size: 11px;
 }
 
-#postscript-wrapper a:hover{
-	color: #FFF;
+#main-content a{
+	text-transform: none;
+}
+
+#main-content a:hover{
+		color: #333;
 	margin-left: 1px;
-	text-shadow: #777 0px 1px 0px;
--webkit-text-shadow: #777 0px 1px 0px;
+	text-shadow: #eee 0px 1px 0px;
+-webkit-text-shadow: #eee 0px 1px 0px;
+}
+
+#postscript-wrapper a:hover{
+	text-decoration: underline;	
 }
 
 #postscript-one {
-width: 195px;
+width: 210px;
 }
 
 #postscript-two {
@@ -407,4 +692,11 @@ font-family: helvetica;
 
 #footer-wrapper a{
 	color: #fec9a5;
+}
+
+.product-info.model,
+.product-info.product.display {
+display: none;
+}
+
 }
