@@ -796,11 +796,136 @@ display: none;
 	margin-left: 8px;
 }
 
-.section-themes #block-menu_block-2 ul.menu{
-	margin-top: 0px;
-	margin-bottom: 0px;
-	padding: 0px;
+.section-content #block-menu_block-2{
+	margin-right: 8px;
+	margin-left: 8px;
 }
+
+.page-content-spectacular-custom-website-themes #block-menu_block-2{
+	height: 107px;
+	background-image: url(../images/features-nav-bg.jpg) !important;
+	background-repeat: no-repeat;
+	background-position: left top;
+}
+
+.section-themes #block-menu_block-2 ul.menu,
+.page-content-spectacular-custom-website-themes #block-menu_block-2 ul.menu{
+	margin-top: 0px !important;
+	margin-bottom: 0px !important;
+	padding: 0px !important;
+}
+
+.page-content-spectacular-custom-website-themes #block-menu_block-2 .menu li{
+	display: inline-block;
+	text-align: center;
+	text-transform: uppercase;
+	margin: 0px !important;
+	padding: 0px !important;
+	height: 107px;
+	border-top-width: 0px;
+	border-right-width: 0px;
+	border-bottom-width: 0px;
+	border-left-width: 0px;
+}
+
+.page-content-spectacular-custom-website-themes #block-menu_block-2 .menu li.first + li{
+	margin-left: -4px;
+}
+
+.page-content-spectacular-custom-website-themes #block-menu_block-2 li.menu-mlid-1348,
+.page-content-spectacular-custom-website-themes #block-menu_block-2 li.menu-mlid-1349,
+.page-content-spectacular-custom-website-themes #block-menu_block-2 li.menu-mlid-1350,
+.page-content-spectacular-custom-website-themes #block-menu_block-2 li.menu-mlid-1351,
+.page-content-spectacular-custom-website-themes #block-menu_block-2 li.menu-mlid-1352,
+.page-content-spectacular-custom-website-themes #block-menu_block-2 li.menu-mlid-1353{
+	margin-left: -4px !important;
+}
+
+.page-content-spectacular-custom-website-themes #block-menu_block-2 .menu a{
+	display: inline-block;
+	background-color: transparent !important;
+	-moz-transition: color 0.8s, color 0.8s ease;
+	-webkit-transition: color 0.8s ease;
+	-ms-transition: color 0.8s ease;
+	-o-transition: color 0.8s ease;
+	transition: color 0.8s ease;	
+}
+
+.page-content-spectacular-custom-website-themes #block-menu_block-2 .menu a:hover{
+	background-color: white !important;
+	opacity: 0.3;
+	color: #000;
+	text-shadow: #ddd 0px 0px 0px;
+	-webkit-text-shadow: #ddd 0px 0px 0px;
+
+}
+
+.page-content-spectacular-custom-website-themes #block-menu_block-2 .menu-mlid-1347 a{
+	width: 80px;
+	height: 27px;
+	padding-top: 64px !important;
+	padding-left: 32px !important;
+	padding-right: 28px !important;
+	padding-bottom: 16px !important;
+}
+
+.page-content-spectacular-custom-website-themes #block-menu_block-2 .menu-mlid-1348 a{
+	width: 91px;
+	height: 27px;
+	padding-top: 64px !important;
+	padding-left: 23px !important;
+	padding-right: 25px !important;
+	padding-bottom: 16px !important;
+}
+
+.page-content-spectacular-custom-website-themes #block-menu_block-2 .menu-mlid-1349 a{
+	width: 92px;
+	height: 27px;
+	padding-top: 64px !important;
+	padding-left: 24px !important;
+	padding-right: 24px !important;
+	padding-bottom: 16px !important;
+}
+
+.page-content-spectacular-custom-website-themes #block-menu_block-2 .menu-mlid-1350 a{
+	width: 118px;
+	height: 27px;
+	padding-top: 64px !important;
+	padding-left: 10px !important;
+	padding-right: 10px !important;
+	padding-bottom: 16px !important;
+}
+
+.page-content-spectacular-custom-website-themes #block-menu_block-2 .menu-mlid-1351 a{
+	width: 106px;
+	height: 27px;
+	padding-top: 64px !important;
+	padding-left: 16px !important;
+	padding-right: 16px !important;
+	padding-bottom: 16px !important;
+}
+
+.page-content-spectacular-custom-website-themes #block-menu_block-2 .menu-mlid-1352 a{
+	width: 107px;
+	height: 27px;
+	padding-top: 64px !important;
+	padding-left: 16px !important;
+	padding-right: 16px !important;
+	padding-bottom: 16px !important;
+}
+
+.page-content-spectacular-custom-website-themes #block-menu_block-2 .menu-mlid-1353 a{
+	width: 96px;
+	height: 27px;
+	padding-top: 64px !important;
+	padding-left: 25px !important;
+	padding-right: 23px !important;
+	padding-bottom: 16px !important;
+}
+
+
+
+
 
 .section-themes #block-menu_block-2 .menu li{
 	display: inline-block;
