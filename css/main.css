@@ -1,6 +1,6 @@
 /* CSS Document */
 
-/*@media screen and (min-width: 960px) {*/
+@media screen and (min-width: 960px) {
 	
 #main-wrapper {
 	margin: 0px;
@@ -16,6 +16,68 @@
 .front .block-area_banner{
 	display: none;
 }
+
+.block-menu_block{
+	background-color: #666;
+	margin-top: 10px !important;
+}
+
+.block-menu_block a,
+.block-menu_block a:visited{
+	background-color: #666;
+	color: #FFF;
+	text-decoration: none;
+}
+
+.block-menu_block a:hover{
+	background-color: #666;
+	color: #FFF;
+	text-decoration: underline;
+}
+
+.block-menu_block ul{
+	padding-top: 8px !important;
+	padding-bottom: 8px !important;
+}
+
+.block-menu_block li.leaf{
+	padding-bottom: 3px;
+}
+
+.block-menu_block li{
+	display: inline;
+	list-style-image: none;
+	list-style-type: none;
+	color: #CCC;
+	text-shadow: #272727 0px 1px 0px;
+	-webkit-text-shadow: #272727 0px 1px 0px;
+	margin-top: 8px !important;
+	margin-bottom: 5px !important;
+	border-top-width: 0px;
+	border-right-width: 1px;
+	border-bottom-width: 0px;
+	border-left-width: 0px;
+	border-top-style: solid;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	border-top-color: #CCC;
+	border-right-color: #CCC;
+	border-bottom-color: #CCC;
+	border-left-color: #CCC;
+}
+
+#content-top {
+margin-bottom: 28px;
+}
+
+.section-product ul{}
+
+.section-product li{}
+
+.section-product li a{}
+
+
 
 .node.product{
 	background-image: none !important;
@@ -698,5 +760,138 @@ font-family: helvetica;
 .product-info.product.display {
 display: none;
 }
+
+.section-themes .view-content{
+	padding-top: 39px;
+	margin-left: 40px;
+	margin-right: 44px;
+}
+
+.section-themes .title{
+	background-image: url(../images/themes-title-bg.png) !important;
+	background-repeat: repeat;
+}
+
+.section-themes #main-content{
+	border-top-width: 0px;
+	border-right-width: 1px !important;
+	border-bottom-width: 1px !important;
+	border-left-width: 1px !important;
+	border-top-style: solid;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	border-top-color: #c2c2c2;
+	border-right-color: #c2c2c2;
+	border-bottom-color: #c2c2c2;
+	border-left-color: #c2c2c2;
+	background-image: url(../images/spectacular-themes-bg.png);
+	background-repeat: repeat-x;
+	background-position: left top;
+	padding-bottom: 40px;
+}
+
+.section-themes #block-menu_block-2{
+	margin-right: 8px;
+	margin-left: 8px;
+}
+
+.section-themes #block-menu_block-2 ul.menu{
+	margin-top: 0px;
+	margin-bottom: 0px;
+	padding: 0px;
+}
+
+.section-themes #block-menu_block-2 .menu li{
+	display: inline-block;
+	height: 15px;
+	padding-top: 80px !important;
+	text-align: center;
+	text-transform: uppercase;
+	padding-bottom: 2px !important;
+}
+
+.section-themes #block-menu_block-2 .menu li.leaf{
+	padding: 87px 0px 8px !important;
+	margin: 0px !important;
+}
+
+.section-themes #block-menu_block-2 .active{
+	padding-bottom: 42px !important;
+}
+
+.section-themes .menu-mlid-1455{
+	background-image: url(../images/downward-menu-arrow.png);
+	background-position: center 127px;
+	background-repeat: no-repeat;
+	background-color: transparent !important;
+}
+
+.section-themes .menu-mlid-1455 a{
+	background-color: #333;
+	background-image: url(../images/eol-icon.png);
+	background-repeat: no-repeat;
+	background-position: center 38px;
+	padding-top: 96px;
+	padding-bottom: 13px;
+	padding-left: 55px;
+	padding-right: 57px;
+	width: 202px;
+	
+}
+
+.section-themes .menu-mlid-1456 a{
+	background-image: url(../images/qol-icon.png);
+	background-repeat: no-repeat;
+	background-position: center 38px;
+	padding-top: 96px;
+	padding-bottom: 13px;
+	padding-left: 53px;
+	padding-right: 57px;
+	width: 202px;
+	margin-left: -5px;
+	background-color: #003c8d;
+	}
+
+.section-themes .menu-mlid-1457 a{
+	background-image: url(../images/pol-icon.png);
+	background-repeat: no-repeat;
+	background-position: center 38px;
+	padding-top: 96px;
+	padding-bottom: 13px;
+	padding-left: 60px;
+	padding-right: 67px;
+	width: 202px;
+	background-color: #7a0026;
+	margin-left: -5px;
+	}
+
+.section-themes .menu-mlid-1458 a{
+	background-image: url(../images/bol-icon.png);
+	background-repeat: no-repeat;
+	background-position: center 38px;
+	padding-top: 96px;
+	padding-bottom: 13px;
+	padding-left: 63px;
+	padding-right: 60px;
+	width: 202px;
+	background-color: #4b0049;
+	margin-left: -5px;
+	}
+
+.section-themes .menu-mlid-1459 a{
+	background-image: url(../images/sol-icon.png);
+	background-repeat: no-repeat;
+	background-position: center 38px;
+	padding-top: 96px;
+	padding-bottom: 13px;
+	padding-left: 47px;
+	padding-right: 40px;
+	width: 202px;
+	background-color: #005826;
+	margin-left: -5px;
+	}
+
+
 
 }

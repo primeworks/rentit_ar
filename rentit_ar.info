@@ -16,6 +16,8 @@ stylesheets[all][] = css/tags.css
 stylesheets[all][] = css/main.css
 stylesheets[all][] = css/header.css
 stylesheets[all][] = css/nav.css
+stylesheets[all][] = css/mobile.css
+stylesheets[all][] = css/tablet.css
 
 ; ------- Declare default javascript includes
 
