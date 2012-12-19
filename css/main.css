@@ -801,7 +801,7 @@ display: none;
 	margin-left: 8px;
 }
 
-.page-content-spectacular-custom-website-themes #block-menu_block-2{
+.section-content #block-menu_block-2{
 	height: 107px;
 	background-image: url(../images/features-nav-bg.jpg) !important;
 	background-repeat: no-repeat;
@@ -809,13 +809,13 @@ display: none;
 }
 
 .section-themes #block-menu_block-2 ul.menu,
-.page-content-spectacular-custom-website-themes #block-menu_block-2 ul.menu{
+.section-content #block-menu_block-2 ul.menu{
 	margin-top: 0px !important;
 	margin-bottom: 0px !important;
 	padding: 0px !important;
 }
 
-.page-content-spectacular-custom-website-themes #block-menu_block-2 .menu li{
+.section-content #block-menu_block-2 .menu li{
 	display: inline-block;
 	text-align: center;
 	text-transform: uppercase;
@@ -828,20 +828,20 @@ display: none;
 	border-left-width: 0px;
 }
 
-.page-content-spectacular-custom-website-themes #block-menu_block-2 .menu li.first + li{
+.section-content #block-menu_block-2 .menu li.first + li{
 	margin-left: -4px;
 }
 
-.page-content-spectacular-custom-website-themes #block-menu_block-2 li.menu-mlid-1348,
-.page-content-spectacular-custom-website-themes #block-menu_block-2 li.menu-mlid-1349,
-.page-content-spectacular-custom-website-themes #block-menu_block-2 li.menu-mlid-1350,
-.page-content-spectacular-custom-website-themes #block-menu_block-2 li.menu-mlid-1351,
-.page-content-spectacular-custom-website-themes #block-menu_block-2 li.menu-mlid-1352,
-.page-content-spectacular-custom-website-themes #block-menu_block-2 li.menu-mlid-1353{
+.section-content #block-menu_block-2 li.menu-mlid-1348,
+.section-content #block-menu_block-2 li.menu-mlid-1349,
+.section-content #block-menu_block-2 li.menu-mlid-1350,
+.section-content #block-menu_block-2 li.menu-mlid-1351,
+.section-content #block-menu_block-2 li.menu-mlid-1352,
+.section-content #block-menu_block-2 li.menu-mlid-1353{
 	margin-left: -4px !important;
 }
 
-.page-content-spectacular-custom-website-themes #block-menu_block-2 .menu a{
+.section-content #block-menu_block-2 .menu a{
 	display: inline-block;
 	background-color: transparent !important;
 	-moz-transition: color 0.8s, color 0.8s ease;
@@ -851,7 +851,7 @@ display: none;
 	transition: color 0.8s ease;	
 }
 
-.page-content-spectacular-custom-website-themes #block-menu_block-2 .menu a:hover{
+.section-content #block-menu_block-2 .menu a:hover{
 	background-color: white !important;
 	opacity: 0.3;
 	color: #000;
@@ -860,7 +860,7 @@ display: none;
 
 }
 
-.page-content-spectacular-custom-website-themes #block-menu_block-2 .menu-mlid-1347 a{
+.section-content #block-menu_block-2 .menu-mlid-1347 a{
 	width: 80px;
 	height: 27px;
 	padding-top: 64px !important;
@@ -869,7 +869,7 @@ display: none;
 	padding-bottom: 16px !important;
 }
 
-.page-content-spectacular-custom-website-themes #block-menu_block-2 .menu-mlid-1348 a{
+.section-content #block-menu_block-2 .menu-mlid-1348 a{
 	width: 91px;
 	height: 27px;
 	padding-top: 64px !important;
@@ -878,7 +878,7 @@ display: none;
 	padding-bottom: 16px !important;
 }
 
-.page-content-spectacular-custom-website-themes #block-menu_block-2 .menu-mlid-1349 a{
+.section-content #block-menu_block-2 .menu-mlid-1349 a{
 	width: 92px;
 	height: 27px;
 	padding-top: 64px !important;
@@ -887,7 +887,7 @@ display: none;
 	padding-bottom: 16px !important;
 }
 
-.page-content-spectacular-custom-website-themes #block-menu_block-2 .menu-mlid-1350 a{
+.section-content #block-menu_block-2 .menu-mlid-1350 a{
 	width: 118px;
 	height: 27px;
 	padding-top: 64px !important;
@@ -896,7 +896,7 @@ display: none;
 	padding-bottom: 16px !important;
 }
 
-.page-content-spectacular-custom-website-themes #block-menu_block-2 .menu-mlid-1351 a{
+.section-content #block-menu_block-2 .menu-mlid-1351 a{
 	width: 106px;
 	height: 27px;
 	padding-top: 64px !important;
@@ -905,7 +905,7 @@ display: none;
 	padding-bottom: 16px !important;
 }
 
-.page-content-spectacular-custom-website-themes #block-menu_block-2 .menu-mlid-1352 a{
+.section-content #block-menu_block-2 .menu-mlid-1352 a{
 	width: 107px;
 	height: 27px;
 	padding-top: 64px !important;
@@ -914,7 +914,7 @@ display: none;
 	padding-bottom: 16px !important;
 }
 
-.page-content-spectacular-custom-website-themes #block-menu_block-2 .menu-mlid-1353 a{
+.section-content #block-menu_block-2 .menu-mlid-1353 a{
 	width: 96px;
 	height: 27px;
 	padding-top: 64px !important;
